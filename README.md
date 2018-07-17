@@ -15,7 +15,7 @@ Using a Kaggle Pokemon dataset csv file, I wanted to create a personal pokedex t
 **Figure 1. Pokemon Dataset Column and Associated Attribute**
 
 | Column Number     | Attribute  | Type | 
-| ------------- |:-------------:| ------------- |
+| :-------------: |:-------------:| :-------------: |
 | 0  | # | int |
 | 1 | Name  |  string |
 | 2 | Type 1| string |
