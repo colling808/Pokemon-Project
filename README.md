@@ -1,7 +1,7 @@
 # Oracle Touch the Cloud Project
 
 ## Project Overview
-I am an avid Pokemon player and wanted to create a project that would help me and other Pokemon fans in their Pokemon battles and adventures. The program benefits from the cloud as clients and customers can receive fast information when playing in high-action fast-paced competitions. The project is split into two parts: a Virtual Pokedex that performs queries and a personal Pokemon database containing a player's favorite Pokemon.
+I am an avid Pokemon player and wanted to create a project that would help me and other Pokemon fans in their Pokemon battles and adventures. The program benefits from the cloud as clients and customers can receive fast information when playing in high-action fast-paced competitions across the globe. The project is split into two parts: a Virtual Pokedex that performs queries and a personal Pokemon database containing a player's favorite Pokemon.
 
 ### References
 [Oracle Python Tutorial](https://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-python-applications.html)
