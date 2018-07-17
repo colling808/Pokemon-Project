@@ -3,12 +3,6 @@
 ## Project Overview
 I am an avid Pokemon player and wanted to create a project that would help me and other Pokemon fans in their Pokemon battles and adventures. The program benefits from the cloud as clients and customers can receive fast information when playing in high-action fast-paced competitions across the globe. The project is split into two parts: a Virtual Pokedex that performs queries and a personal Pokemon database containing a player's favorite Pokemon.
 
-### References
-[Oracle Python Tutorial](https://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-python-applications.html)
-
-[Pokemon Dataset](https://www.kaggle.com/abcsds/pokemon)
-
-
 ## Part 1: Virtual Pokedex
 
 Using a Kaggle Pokemon dataset csv file, I wanted to create a personal pokedex that performed simple and complex queries. 
@@ -72,6 +66,11 @@ For part 2, I had originally tried to use PHP/MySQL for my database of trainers;
 
 ## Conclusions
 This project was intended to show my technical skills particularly in database systems and data processing. Given more time, I would've loved to add more features and integration with the Oracle Cloud Services. I enjoyed programming this project as it is something I am passionate about. 
+
+## References
+[Oracle Python Tutorial](https://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-python-applications.html)
+
+[Pokemon Dataset](https://www.kaggle.com/abcsds/pokemon)
 
 
 
