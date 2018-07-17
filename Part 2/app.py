@@ -86,7 +86,7 @@ def create_pokemon():
     conn.close()
     return jsonify(message)
 
-@app.route('/pokemon/<str:employee_id>', methods=['PUT'])
+@app.route('/pokemon/<str:pokemon_name>', methods=['PUT'])
 def update_pokemon(pokemon_name):
     conn = creatConnection()
     cur = conn.cursor()
