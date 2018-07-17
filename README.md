@@ -62,7 +62,9 @@ Using curl GET, POST, and DELETE methods, we could upload, view, update, and del
 The actual upload to the Oracle Cloud services did not work for either part 1 or part 2.
 For part 1, while the test python applciation was able to run, I was not able to interpret the logfiles of the pokedex and was not sure how to troubleshoot from there. 
 
-For part 2, I had originally tried to use PHP/MySQL for my database of trainers; however, there were several installation package issues particularly with NetBean and Laravel. Instead, I was able to translate and adjust into Python, an even simpler language to create data TABLES. While the Python methods and Oracle database initialization were successfully completed, I was not able to co
+For part 2, I had originally tried to use PHP/MySQL for my database of trainers; however, there were several installation package issues particularly with NetBean and Laravel. Instead, I was able to translate and adjust into Python, an even simpler language to create data TABLES. While the Python methods and Oracle database initialization were successfully completed, I was not able to run the Python program in the Oracle Cloud. 
+
+Ideally, I would've liked to use Oracle Analytics Cloud to make visualizations based off of my data inputs.
 
 ## Conclusions
 This project was intended to show my technical skills particularly in database systems and data processing. Given more time, I would've loved to add more features and integration with the Oracle Cloud Services. I enjoyed programming this project as it is something I am passionate about. 
